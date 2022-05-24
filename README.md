@@ -4,9 +4,7 @@
 
 I'm **Peter Swift** : mechatronics engineer from St.Paul, Minnesota.
 
-> I'm working to empower OEMs with technology to build faster, smarter, and safer manufacturing machines.
-
-I love computer graphics + animation.
+I'm working to empower OEMs with technology to build faster, smarter, and safer manufacturing machines.
 
 ---
 
@@ -21,6 +19,12 @@ I love computer graphics + animation.
 ---
 
 ![PlanarRender](Planar1920.png)
+
+--- 
+
+### Other Interests:
+
+- Computer graphics + animation
 
 ---
 

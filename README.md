@@ -32,4 +32,4 @@ I'm working to empower OEMs with technology to build faster, smarter, and safer 
 
 pswift066@gmail.com
 p.swift@beckhoff.com
-[linkedin/pswift066](linkedin.com/in/pswift066)
+[linkedin/pswift066](https://www.linkedin.com/in/pswift066)
